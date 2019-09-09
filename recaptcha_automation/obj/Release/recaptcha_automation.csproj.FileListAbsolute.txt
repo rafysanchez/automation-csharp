@@ -1,0 +1,15 @@
+C:\Temp\GitHub\NFE\automation-csharp\recaptcha_automation\bin\Release\recaptcha_automation.exe.config
+C:\Temp\GitHub\NFE\automation-csharp\recaptcha_automation\bin\Release\recaptcha_automation.exe
+C:\Temp\GitHub\NFE\automation-csharp\recaptcha_automation\bin\Release\recaptcha_automation.pdb
+C:\Temp\GitHub\NFE\automation-csharp\recaptcha_automation\bin\Release\HtmlAgilityPack.dll
+C:\Temp\GitHub\NFE\automation-csharp\recaptcha_automation\bin\Release\imagetyperzapi.dll
+C:\Temp\GitHub\NFE\automation-csharp\recaptcha_automation\bin\Release\WebDriver.dll
+C:\Temp\GitHub\NFE\automation-csharp\recaptcha_automation\bin\Release\Newtonsoft.Json.dll
+C:\Temp\GitHub\NFE\automation-csharp\recaptcha_automation\bin\Release\HtmlAgilityPack.pdb
+C:\Temp\GitHub\NFE\automation-csharp\recaptcha_automation\bin\Release\HtmlAgilityPack.xml
+C:\Temp\GitHub\NFE\automation-csharp\recaptcha_automation\bin\Release\WebDriver.xml
+C:\Temp\GitHub\NFE\automation-csharp\recaptcha_automation\obj\Release\recaptcha_automation.csprojAssemblyReference.cache
+C:\Temp\GitHub\NFE\automation-csharp\recaptcha_automation\obj\Release\recaptcha_automation.csproj.CoreCompileInputs.cache
+C:\Temp\GitHub\NFE\automation-csharp\recaptcha_automation\obj\Release\recaptcha_automation.csproj.CopyComplete
+C:\Temp\GitHub\NFE\automation-csharp\recaptcha_automation\obj\Release\recaptcha_automation.exe
+C:\Temp\GitHub\NFE\automation-csharp\recaptcha_automation\obj\Release\recaptcha_automation.pdb

@@ -1,0 +1,15 @@
+C:\Temp\GitHub\NFE\automation-csharp\recaptcha_automation\bin\Debug\recaptcha_automation.exe.config
+C:\Temp\GitHub\NFE\automation-csharp\recaptcha_automation\bin\Debug\recaptcha_automation.exe
+C:\Temp\GitHub\NFE\automation-csharp\recaptcha_automation\bin\Debug\recaptcha_automation.pdb
+C:\Temp\GitHub\NFE\automation-csharp\recaptcha_automation\bin\Debug\HtmlAgilityPack.dll
+C:\Temp\GitHub\NFE\automation-csharp\recaptcha_automation\bin\Debug\imagetyperzapi.dll
+C:\Temp\GitHub\NFE\automation-csharp\recaptcha_automation\bin\Debug\WebDriver.dll
+C:\Temp\GitHub\NFE\automation-csharp\recaptcha_automation\bin\Debug\Newtonsoft.Json.dll
+C:\Temp\GitHub\NFE\automation-csharp\recaptcha_automation\bin\Debug\HtmlAgilityPack.pdb
+C:\Temp\GitHub\NFE\automation-csharp\recaptcha_automation\bin\Debug\HtmlAgilityPack.xml
+C:\Temp\GitHub\NFE\automation-csharp\recaptcha_automation\bin\Debug\WebDriver.xml
+C:\Temp\GitHub\NFE\automation-csharp\recaptcha_automation\obj\Debug\recaptcha_automation.csproj.CoreCompileInputs.cache
+C:\Temp\GitHub\NFE\automation-csharp\recaptcha_automation\obj\Debug\recaptcha_automation.csproj.CopyComplete
+C:\Temp\GitHub\NFE\automation-csharp\recaptcha_automation\obj\Debug\recaptcha_automation.exe
+C:\Temp\GitHub\NFE\automation-csharp\recaptcha_automation\obj\Debug\recaptcha_automation.pdb
+C:\Temp\GitHub\NFE\automation-csharp\recaptcha_automation\obj\Debug\recaptcha_automation.csprojAssemblyReference.cache
